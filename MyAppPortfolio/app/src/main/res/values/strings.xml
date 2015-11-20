@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pf_title">My Nanodegree Apps!</string>
+    <string name="pf_sportify_streamer">SPORTIFY STREAMER</string>
+    <string name="pf_scores_app">SCORES APP</string>
+    <string name="pf_library_app">LIBRARY APP</string>
+    <string name="pf_build_it_bigger">BUILD IT BIGGER</string>
+    <string name="pf_xyz_reader">XYZ READER</string>
+    <string name="pf_capstone">CAPSTONE: MY OWN APP</string>
+
+</resources>
